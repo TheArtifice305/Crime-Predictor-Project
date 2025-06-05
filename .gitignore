@@ -1,1 +1,5 @@
-*.zone.identifier
+*Zone.identifier
+*.Zone.Identifier
+
+*zone.identifier
+*Zone.Identifier
